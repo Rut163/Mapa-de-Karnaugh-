@@ -1,0 +1,32 @@
+E:\CICLO 2021-2\Mate Discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.vcxprojAssemblyReference.cache
+E:\CICLO 2021-2\Mate Discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Inicio.resources
+E:\CICLO 2021-2\Mate Discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Mapa1.resources
+E:\CICLO 2021-2\Mate Discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Tabla2.resources
+E:\CICLO 2021-2\Mate Discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Mapa2.resources
+E:\CICLO 2021-2\Mate Discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.TablaV1.resources
+E:\CICLO 2021-2\Mate Discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.vcxproj.GenerateResource.cache
+E:\CICLO 2021-2\Mate Discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.exe
+C:\Users\Miguel\Desktop\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.vcxprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Inicio.resources
+C:\Users\Miguel\Desktop\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Mapa1.resources
+C:\Users\Miguel\Desktop\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Tabla2.resources
+C:\Users\Miguel\Desktop\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Mapa2.resources
+C:\Users\Miguel\Desktop\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.TablaV1.resources
+C:\Users\Miguel\Desktop\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.vcxproj.GenerateResource.cache
+C:\Users\Miguel\Desktop\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.exe
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Inicio.resources
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Mapa1.resources
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Tabla2.resources
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Mapa2.resources
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.TablaV1.resources
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.exe
+C:\Users\Jesica\Desktop\deee\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.vcxproj.AssemblyReference.cache
+C:\Users\Jesica\Desktop\deee\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Inicio.resources
+C:\Users\Jesica\Desktop\deee\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Mapa1.resources
+C:\Users\Jesica\Desktop\deee\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Tabla2.resources
+C:\Users\Jesica\Desktop\deee\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.Mapa2.resources
+C:\Users\Jesica\Desktop\deee\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.TablaV1.resources
+C:\Users\Jesica\Desktop\deee\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.vcxproj.GenerateResource.cache
+C:\Users\Jesica\Desktop\deee\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\x64\Debug\MapaKarnaugh0.exe

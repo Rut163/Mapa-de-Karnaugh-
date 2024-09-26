@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\Debug\MapaKarnaugh0.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\Debug\MapaKarnaugh0.MyForm.resources
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\Debug\MapaKarnaugh0.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\JesiRut\Tercer ciclo\Mate discreta\MapaKarnaugh0\Debug\MapaKarnaugh0.exe
